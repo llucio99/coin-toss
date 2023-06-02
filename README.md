@@ -1,1 +1,8 @@
-# coin-toss
+# Coin Toss
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+
+## How to run
+- Open index.html in web browser
